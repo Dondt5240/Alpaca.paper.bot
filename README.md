@@ -1,2 +1,2 @@
 # Alpaca.paper.bot
-Paper Trading Simulation Using Alpaca 
+Paper Trading Bot using Alpaca Markets Paper Trading API 
